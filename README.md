@@ -1,5 +1,5 @@
 # AndroidPreworkApp
-Repository for my android pre-work app called HelloRukmini
+Repository for my Android prework app called HelloRukmini
 
 ### App Walk-though
 
